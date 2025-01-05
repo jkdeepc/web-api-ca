@@ -3,7 +3,7 @@
 ---
 
 # Assignment 2 - Web API  
-**Name:** Wntao Lin
+**Name:** Wentao Lin
 
 ## Features  
 This API includes several enhancements and modifications that were not part of the lab exercises:  
